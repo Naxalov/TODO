@@ -3,4 +3,4 @@ PRIVATE.txt
 !test.exe
 output/
 result/
-
+.DS*
