@@ -1,1 +1,6 @@
 PRIVATE.txt
+*.exe
+!test.exe
+output/
+result/
+
