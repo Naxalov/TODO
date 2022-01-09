@@ -4,3 +4,4 @@ PRIVATE.txt
 output/
 result/
 .DS*
+filenottocommit.txt
